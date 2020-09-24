@@ -12,6 +12,6 @@ public class Main{
         int d=Integer.parseInt(br.readLine());
         System.out.println(Fibonacci(d));
 
-        123;
+
     }
 }
